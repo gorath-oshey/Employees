@@ -16,6 +16,7 @@ class App extends Component {
                 { name: "Bruce W.", salary: 800, increase: false, rise: false, id: 1 },
                 { name: "Vanda V.", salary: 3000, increase: false, rise: false, id: 2 },
                 { name: "Tony S.", salary: 5000, increase: false, rise: false, id: 3 },
+                { name: "Thor", salary: 8000, increase: false, rise: false, id: 4 },
             ],
             term: '',
             filter: 'all'
